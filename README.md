@@ -28,6 +28,4 @@ cd cmd/match
 go run main.go wire_gen.go
 ```
 
-## Contact Us
 
-个人邮箱: xiiiew@qq.com
